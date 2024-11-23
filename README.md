@@ -11,7 +11,7 @@
 - Double - toggle auto effect change
 - Tripple - enter favorite effects menu:
   - Single - next effect id
-  - Hold - Toggle effect
+  - Hold - toggle effect
   - Tripple (again) - exit
 - Hold - brightness  
 
@@ -19,4 +19,4 @@
 <a id="versions"></a>
 ## Versions
 - v0.1 - Developing...
-- v1.0 - Added button control, modified: bitmaps (added more), circles (became more calm), added sine wave. Code is refactored.
+- v1.0 - Added button control, modified: bitmaps (added more), circles (became more calm), added sine wave. Code refactored.
