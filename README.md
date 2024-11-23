@@ -1,6 +1,22 @@
 # CristmasDecoration 
-Round pcb with 8x8 LED matrix
+Effects:
+- Bitmaps(images)
+- Snow
+- Circles
+- Falling commets
+- Sine wave
+
+Single button control:
+- Single - next effect
+- Double - toggle auto effect change
+- Tripple - enter favorite effects menu:
+  - Single - next effect id
+  - Hold - Toggle effect
+  - Tripple (again) - exit
+- Hold - brightness  
+
 
 <a id="versions"></a>
 ## Versions
-- v1.0 - Stable. (Effects list in /Software/.ino)
+- v0.1 - Developing...
+- v1.0 - Added button control, modified: bitmaps (added more), circles (became more calm), added sine wave. Code is refactored.
