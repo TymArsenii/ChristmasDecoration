@@ -1,12 +1,12 @@
 # CristmasDecoration 
-Effects:
+**Effects:**
 - Bitmaps(images)
 - Snow
 - Circles
 - Falling commets
 - Sine wave
 
-Single button control:
+**Single button control:**
 - Single - next effect
 - Double - toggle auto effect change
 - Tripple - enter favorite effects menu:
